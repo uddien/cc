@@ -5,7 +5,7 @@ var cW;
 var bgColor = "#FF6138";
 var animations = [];
 var circles = [];
-
+// yo ngab
 var colorPicker = (function () {
     var colors = ["#FF6138", "#FFBE53", "#2980B9", "#282741"];
     var index = 0;
